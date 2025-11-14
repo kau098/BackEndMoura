@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+ HEAD
       "projectUniqueName": "C:\\Users\\55295311805\\Desktop\\banco_de_dados-MB\\Back End\\POO\\PilaresPoo\\Abstracao\\Exemplos\\exerciciopolimorfismo\\exerciciopolimorfismo.csproj",
       "projectName": "exerciciopolimorfismo",
       "projectPath": "C:\\Users\\55295311805\\Desktop\\banco_de_dados-MB\\Back End\\POO\\PilaresPoo\\Abstracao\\Exemplos\\exerciciopolimorfismo\\exerciciopolimorfismo.csproj",
       "packagesPath": "C:\\Users\\55295311805\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\55295311805\\Desktop\\banco_de_dados-MB\\Back End\\POO\\PilaresPoo\\Abstracao\\Exemplos\\exerciciopolimorfismo\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\55295311805\\Desktop\\Back End\\AulaInvertida\\AulaInvertida.csproj",
+      "projectName": "AulaInvertida",
+      "projectPath": "C:\\Users\\55295311805\\Desktop\\Back End\\AulaInvertida\\AulaInvertida.csproj",
+      "packagesPath": "C:\\Users\\55295311805\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\55295311805\\Desktop\\Back End\\AulaInvertida\\obj\\",
+ f8691ac74d0d8b399d94f8eda8c77401d18ef03a
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55295311805\\AppData\\Roaming\\NuGet\\NuGet.Config"

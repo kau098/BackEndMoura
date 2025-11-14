@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using exerciciopolimorfismo;
 
 
@@ -19,3 +20,6 @@ Console.WriteLine($"Pagamento com Desconto: {compraCartao.CalcularTotal()}");
 
 
 
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
